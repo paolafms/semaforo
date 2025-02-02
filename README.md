@@ -1,4 +1,4 @@
-# Semáforo utilizando um microcontrolador Raspberry Pi Pico:
+# Semáforo utilizando microcontrolador Raspberry Pi Pico:
 - O semáforo alterna entre três estados: vermelho, amarelo e verde com cada estado durando 3 segundos.
 - O código foi projetado para funcionar tanto no simulador Wokwi quanto na placa BitDogLab, com ajustes específicos para cada plataforma.
 
